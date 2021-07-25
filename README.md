@@ -1,2 +1,2 @@
 # netflixclone
-Desafio Bootcamp Mrv , recriando ma interface da netflix
+Desafio Bootcamp Mrv , recriando a interface da netflix.
